@@ -12,7 +12,7 @@ def selection_sort(a: MutableSequence) -> None:
 
 if __name__ == '__main__':
     print('선택 정렬')
-    num = int(input('원소 수를 입력.: '))
+    num = int(input('원소 수를 입력.:  '))
     x = [None] * num
 
     for i in range(num):
